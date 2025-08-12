@@ -11,7 +11,7 @@ I used the *Minimal Resume* HTML template with a separate CSS file for styling.
 - Customize it using CSS.
 
 ## 🖥 Live Demo
-[View My Website](https://osuruchaitanya.github.io/Task-6-Static-website-using-GitHub-pages//)  
+[View My Website](https://osuruchaitanya.github.io/Task-6-Static-website-using-GitHub-pages/)  
 (Replace with your actual GitHub Pages link)
 
 ## 📂 Project Structure
