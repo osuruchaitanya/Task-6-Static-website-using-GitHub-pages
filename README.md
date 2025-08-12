@@ -47,3 +47,4 @@ task6-minimal-resume/ │ ├── index.html   # Main HTML file (Minimal Resum
 4. Save and wait for GitHub Pages to publish your site.
 
 ### screenshot of static website
+![image alt](https://github.com/osuruchaitanya/Task-6-Static-website-using-GitHub-pages/blob/0a0abc355e5c7e7c8cbf68549e0605a66eaca7f7/static%20website..png)
